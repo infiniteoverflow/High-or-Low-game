@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">High or Low</string>
+    <string name="string1">I am thinking a of number between 1 and 20</string>
+    <string name="string2">Can u guess my number??</string>
+</resources>
